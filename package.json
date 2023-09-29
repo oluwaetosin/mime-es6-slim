@@ -1,0 +1,38 @@
+{
+  "name": "mime-es6-slim",
+  "version": "1.0.0",
+  "description": "Get Mime Type from file name or extenstion and get extention from mime type as well",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "npm test",
+    "build": "tsc",
+    "run": "node dist/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oluwaetosin/mime-es6-slim.git"
+  },
+  "keywords": [
+    "Javascript",
+    "Nodejs",
+    "es6",
+    "mime",
+    "file",
+    "extentions",
+    "mime",
+    "type"
+  ],
+  "author": "Tosin Omotayo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oluwaetosin/mime-es6-slim/issues"
+  },
+  "homepage": "https://github.com/oluwaetosin/mime-es6-slim#readme",
+  "devDependencies": {
+    "@types/source-map-support": "^0.5.8",
+    "typescript": "^5.2.2"
+  },
+  "dependencies": {
+    "source-map-support": "^0.5.21"
+  }
+}
